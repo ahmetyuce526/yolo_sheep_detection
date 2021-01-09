@@ -1,1 +1,1 @@
-# yolo_shhep_detection
+# yolo_sheep_detection
